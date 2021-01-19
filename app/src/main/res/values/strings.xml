@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidGitIntegration</string>
+    <string name="app_name">Android Git Integration</string>
     <string name="user_name">Huzaifa Saboowala</string>
     <string name="button_text">Click Me!</string>
 </resources>
